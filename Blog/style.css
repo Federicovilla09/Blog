@@ -3,3 +3,9 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   color: blue;
 }
+
+footer {
+  background-color: yellow;
+  text-align: left;
+  border: solid 2px blue;
+}
